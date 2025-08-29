@@ -68,7 +68,7 @@ cout << "Value of x: " << x << endl;
 ```
 ### Check result [here](https://onecompiler.com/cpp/3vmdff4eq)
 
-Pointes has the ability to store address of more than one elements or a cells of elements. 
+Pointers has the ability to store address of more than one elements or a cells of elements. 
 
 ## Example 
 ```c
