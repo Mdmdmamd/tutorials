@@ -14,7 +14,7 @@ scoop install lua
 # Installation on MacOS
 
 ## Using homebrew
-Install homebrew if you havent already. Once you have homebrew installed, simple run the following command to install lua
+Install homebrew if you haven't already. Once you have homebrew installed, simply run the following command to install lua
 
 ```shell
 brew install lua
