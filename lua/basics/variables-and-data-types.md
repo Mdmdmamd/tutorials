@@ -33,7 +33,7 @@ There are many different types of variables you can make in lua. Here are the ma
 ## Strings
 Strings are basically text. If you don't make your text a string, lua assumes it's a number and then errors, because something like PizzaShop is not a number.
 
-To make your text a string, simple add either ' ' or " " in between your text.
+To make your text a string, simply add either ' ' or " " in between your text.
 Example:
 
 ```lua
