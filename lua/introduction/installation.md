@@ -108,4 +108,4 @@ If you see an output that looks similar to this:
 Lua 5.4.6  Copyright (C) 1994-2023 Lua.org, PUC-Rio
 > 
 ```
-That means Lua has been installed sucessfully!
+That means Lua has been installed successfully!
